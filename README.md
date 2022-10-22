@@ -10,7 +10,7 @@
 - Ruby on Rails
 - Git 
 
-- click here to see the [front-end](https://github.com/sabetetc/hello-react-front-end/)
+- click here to see the [front-end](https://github.com/sabetech/hello-react-front-end/)
 
 ## Getting Started
 
@@ -20,24 +20,24 @@ To get a local copy up and running follow these simple example steps.
 - computer
 
 ### Setup
-- Run git clone ` https://github.com/jheart-vic/hello-rails-back-end.git`
+- Run git clone ` https://github.com/sabetech/hello-rails-back-end.git`
 - Run `bundle install`
 - Run `rails new my_new_app --api --database=postgresql`
- - `Note: to view the front end run the app on port: http://localhost:3001/`
+ - `Note: to view the front end run the app on port: http://localhost:3000/`
 ## Author
 
 👤 **Albert Mensah-Ansah**
 
 - Linkedin [Albert-Mensah-Ansah](linkedin.com/in/albertmensah-ansah)
-- Twitter [victor-David](https://twitter.com/@al_kfx)
-- Github: [@Victor-David](https://github.com/sabetech)
+- Twitter [@al_kfx](https://twitter.com/@al_kfx)
+- Github: [@sabetech](https://github.com/sabetech)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jheart-vic/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/sabetech/hello-rails-back-end/issues).
 
 ## Show your support
 
